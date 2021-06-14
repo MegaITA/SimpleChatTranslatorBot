@@ -1,7 +1,7 @@
 # SimpleChatTranslatorBot
 I can't figure out a neat name. Help me.
 
-# How to install:
+# How to install
 
 Firstly you must have NodeJS and TypeScript installed. Then, using [@BotFather](https://t.me/BotFather) via Telegram, you will obtain a bot token that you'll need later.
 
