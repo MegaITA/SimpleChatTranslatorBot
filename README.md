@@ -17,7 +17,12 @@ Then you'll have to compile the project using:
 ```bash
 npm run compile
 ```
-Once you compiled it successfully you can run the bot by simply running:
+
+
+Once you compiled it successfully you have still to set the environment variables which can be done with the command or by creating a `.env` file into the `dist` folder, the properties that must be set are `BOT_TOKEN` that is the token obtained from BotFather, and `DEEPL_API_KEY` which is the api key that you have to get [here](https://www.deepl.com/pro#developer).
+
+ 
+You can then run the bot by simply doing:
 ```bash
 npm run start
 ```
